@@ -1,0 +1,13 @@
+<html>
+<head>
+	<title>Zend-Login</title>
+	<link rel='stylesheet' href='<?php echo $this->baseUrl;?>/css/home.css' >
+</head>
+	<body>
+	<div class='contenido'>
+    <label>Bienvenido <?php echo $this->usuario; ?> </label><br>
+    <a href="<?php echo $this->url(array('controller'=>'autentifica', 'action'=>'logout-data'));?>">Cerrar sesion.</a>
+    </div>
+    </body>
+</html>
+

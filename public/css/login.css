@@ -1,0 +1,38 @@
+*{
+	font-size: 11px;
+	color: #798e94;	
+}
+body{
+	width:400px;
+	margin: auto;
+	background-color: #FBF5EF;
+}
+.login{
+	border: 1px solid #FBF5EF;
+	border-radius: 6px;
+	padding: 45px 45px 28px;
+	margin-top: 100px;
+	background-color:white;
+	box-shadow: 0px 5px 10px #F6E3CE, 0 0 0 10px #F8E6E0 inset;
+}
+.login label{
+	display: block;
+	font-weight: bold;
+}
+.login div{
+	margin-bottom: 15px;
+}
+.login input[type='text'], .login input[type='password']{
+	padding: 7px 6px;
+	width: 294px;
+	border: 1px solid #CED5D7;
+	resize: none;
+	box-shadow: 0 0 0 3px #EEF5F7;
+	margin: 5px 0;
+}
+.login input[type='text']:focus, .login input[type='password']:focus{
+	outline: none;
+	box-shadow: 0 0 0 3px #DDE9EC;
+}
+
+

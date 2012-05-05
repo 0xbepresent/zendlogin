@@ -1,0 +1,26 @@
+
+*{
+	font-size: 11px;
+	color: #798e94;	
+}
+body{
+	width:1000px;
+	margin: auto;
+	background-color: #FBF5EF;
+}
+.contenido{
+	border: 1px solid #FBF5EF;
+	border-radius: 6px;
+	padding: 45px 45px 28px;
+	margin-top: 100px;
+	background-color:white;
+	box-shadow: 0px 5px 10px #F6E3CE, 0 0 0 10px #F8E6E0 inset;
+}
+.contenido label{
+	display: block;
+	font-weight: bold;
+}
+.contenido div{
+	margin-bottom: 15px;
+}
+
