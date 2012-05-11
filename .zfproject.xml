@@ -27,6 +27,7 @@
         <dbTableDirectory>
           <dbTableFile dbTableName="Usuarios"/>
         </dbTableDirectory>
+        <modelFile modelName="SesionUsuario"/>
       </modelsDirectory>
       <modulesDirectory enabled="false"/>
       <viewsDirectory>
