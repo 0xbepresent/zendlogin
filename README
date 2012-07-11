@@ -1,2 +1,3 @@
 Este proyecto sera un login en Zend-Framework con una integración
-de JQuery para hacerlo mas dinamico.
+de JQuery para hacerlo mas dinamico. Simplemente se coloca en un servidor que 
+tenga Apache y PHP, asi mismo de tener instalado Zend-Framework
